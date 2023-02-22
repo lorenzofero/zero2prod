@@ -1,4 +1,4 @@
-//! main.rs 
+//! main.rs
 
 use zero2prod::run;
 
